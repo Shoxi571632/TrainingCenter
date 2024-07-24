@@ -66,6 +66,7 @@ internal class Program
                         {
                             //Courses
                             case "1":
+
                                 break;
                                 //Teacher
                             case "2":
